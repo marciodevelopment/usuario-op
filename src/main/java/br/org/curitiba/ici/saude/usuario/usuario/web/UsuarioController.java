@@ -33,6 +33,7 @@ public class UsuarioController {
     response.setNmUsuario("Carlos");
     response.setSexo(SexoType.MASCULINO);
     response.setNmMae("carla santos");
+    response.setNmSocial("Solange");
     return response;
   }
 
